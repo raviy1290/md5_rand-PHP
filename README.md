@@ -1,4 +1,4 @@
-md5_rand-PHP
+md5_rand-PHP (custom function for PHP to generate random number using md5 hasing algorithm)
 ============
 Using hashing to generate random string from limited possible character-set 
 md5 based random string (alphanumeric+ special chars) generation in PHP avoid rand(), mt_rand() 
